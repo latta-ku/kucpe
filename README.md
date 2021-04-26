@@ -13,5 +13,3 @@
 * keras-gpu 2.3.1  
 * python-kaleido 0.1.0 
 
-<br />
-<strong>Most part of the codes is redacted.</strong>
